@@ -1,8 +1,21 @@
 body {
-  padding: 50px;
-  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+  font-family: Arial, sans-serif;
+  text-align: center;
+  background-color: #f4f4f4;
 }
 
-a {
-  color: #00B7FF;
+.container {
+  margin-top: 50px;
+  box-shadow: 1px 1px 25px dodgerblue;
+}
+
+img {
+  width: 150px;
+  margin: 20px 0;
+}
+
+button {
+  padding: 10px 20px;
+  font-size: 16px;
+  cursor: pointer;
 }
